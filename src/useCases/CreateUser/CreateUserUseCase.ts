@@ -32,7 +32,7 @@ export class CreateUserUseCase {
                 email: "meuAmorhelioJunior@mcfly.com"
             },
             subject: "Declaração de Amor",
-            body: "<p>Meu amor sempre fui louca por vôce me der uma chance de fazer vc a pessoa mais feliz do mundo</p>"
+            body: "<p>Meu amor sempre fui louca por vôce me ê uma chance de fazer vc a pessoa mais feliz do mundo</p>"
         });
     }
 

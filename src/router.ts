@@ -1,9 +1,10 @@
-import express from "express";
+import { Router } from "express"
+import { createUserController } from "./useCases/CreateUser";
 
-const router = express.Router();
+const router = Router();
 
-router.post("/", (require, respota) => {
-  return respota.send("Hello World");
+router.post("/users", (request, response) => {
+  return createUserController.handle(request,response)
 });
 
 export { router };

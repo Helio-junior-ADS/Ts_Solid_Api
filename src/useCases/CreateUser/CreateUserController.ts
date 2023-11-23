@@ -16,10 +16,13 @@ export class CreateUserController {
         password
       });
 
-      return response.status(201).send();
+      return response.status(201).json({
+        message:"Deu certo uhhhHuuu"
+      });
+
     } catch {(err)=>{
 
-      return response.status(401).json({
+      return response.status(400).json({
         message: err.message || "Unexpected error./"
       })
 
