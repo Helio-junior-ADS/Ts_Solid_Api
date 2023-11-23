@@ -33,7 +33,7 @@ export class CreateUserUseCase {
             },
             subject: "Declaração de Amor",
             body: "<p>Meu amor sempre fui louca por vôce me der uma chance de fazer vc a pessoa mais feliz do mundo</p>"
-        })
+        });
     }
 
 }
