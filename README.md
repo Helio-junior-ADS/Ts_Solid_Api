@@ -1,6 +1,6 @@
 # 
 
-<h1 align="center">:file_cabinet: Mail Api Solid - Criado Api com Serviço de Mensageria e Princípios SOLID em Node.js e TypeScript. </h1>
+<h1 align="center">:file_cabinet: 🗄️ Mail Api Solid - Foi Implementado uma Api com Serviço de Mensageiria usando Princípios SOLID em Node.js e TypeScript.</h1>
 
 ## :memo: Descrição
 Esse projeto foi desenvolvido como parte do estudo dos Princípios de SOLID e POO. 
