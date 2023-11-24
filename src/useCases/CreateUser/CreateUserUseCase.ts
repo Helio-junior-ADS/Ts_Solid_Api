@@ -28,11 +28,11 @@ export class CreateUserUseCase {
                 email: data.email
             },
             from: {
-                name: "Hermione",
-                email: "meuAmorhelioJunior@mcfly.com"
+                name: "Google",
+                email: "google@microsoft.com"
             },
-            subject: "Declaração de Amor",
-            body: "<p>Meu amor sempre fui louca por vôce me ê uma chance de fazer vc a pessoa mais feliz do mundo</p>"
+            subject: "Contratado ",
+            body: "<p>Parabéns Hélio Júnior você foi contratado para cargo de Dev Senior</p>"
         });
     }
 
